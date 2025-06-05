@@ -21,13 +21,4 @@ This is a simple HTML, CSS, and JavaScript project that allows users to switch b
 
 ---
 
-## 📸 Demo
-
-![demo gif or screenshot if available]
-
-> "Click the button to toggle the website's theme!"
-
----
-
-## 📁 File Structure
 
